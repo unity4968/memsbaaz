@@ -23,7 +23,8 @@ class class1 {
         } catch (err) {
 
             console.log(err);
-
+            res.send("error I don't know why!!");
+            
         }
 
     }
@@ -46,6 +47,7 @@ class class1 {
         } catch (err) {
 
             console.log(err);
+            res.send("error I don't know why!!");
 
         }
 
@@ -62,7 +64,7 @@ class class1 {
         } catch (err) {
 
             console.log(err);
-
+            res.send("error I don't know why!!");
         }
 
     }
@@ -106,6 +108,7 @@ class class1 {
 
         } catch (err) {
             console.log(err);
+            res.send("error I don't know why!!");
         }
 
     }
@@ -121,7 +124,7 @@ class class1 {
         } catch (err) {
 
             console.log(err);
-
+            res.send("error I don't know why!!");
         }
 
     }
